@@ -27,13 +27,4 @@ public class GetStudentDetails
           System.out.println("Total: "+total +"\tPercentage: "+perc);
             
       }
-          
-}
-Output
-
-Enter Name: Mike
-Enter Roll Number: 101
-Enter marks in Maths, Physics and English: 88 77 99
-Roll Number:101	Name: Mike
-Marks (Maths, Physics, English): 88,77,99
-Total: 264	Percentage: 88.0
+         
